@@ -1,0 +1,152 @@
+body{
+	font-family: sans-serif;
+	background-color: rgb(240,240,240);	
+}
+
+img{
+	border-radius: 5px;
+	box-shadow: 0px 0px 1px black;
+	margin-top: 15px;
+}
+
+h1{
+	color: #428BCA;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+h2{
+	color: #302E2C;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+h3{
+	color: #428BCA;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+h4{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	color: #363636;
+	margin-left: 20px;
+}
+
+h5{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	color: #363636;
+	margin-left: 20px;
+}
+
+h6{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	color: #363636;
+	margin-left: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: #110A40;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+li{
+	font-size: 15px;
+}
+
+.achievement{
+	background-color: rgb(250,250,250);
+	border-radius: 5px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+	margin: 10px auto;
+	padding-bottom: 5px;
+}
+
+#footer{
+	color: #428BCA;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+
+#footer a{
+	color: #428BCA;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#footer a:hover{
+	color: #302E2C;
+	text-decoration: none;
+}
+
+.container p{
+	padding-left: 10px;
+}
+
+
+.span1{
+	background: #FFC000;
+	border-radius: 5px;
+}
+
+.span2{
+	background: #FFC000;
+}
+
+.span3{
+	background: #FFC000;
+}
+
+.span4{
+	background: #FFC000;
+}
+
+.allspan{
+	font-weight: 600;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: black;
+}
+
+.navbar-transparent{
+
+ 	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+p{
+	margin-left: 9px;
+}
+
+.panel-body{
+	margin-top: -20px;
+	margin-bottom: -15px;
+}
+
+.panel-footer-height {
+	height: 430px;
+}
