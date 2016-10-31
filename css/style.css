@@ -1,6 +1,7 @@
 body{
 	font-family: sans-serif;
 	background-color: rgb(240,240,240);	
+	font-family: 'Open Sans', sans-serif;
 }
 
 img{
@@ -65,6 +66,7 @@ h4, h5, h6, p{
 a{
 	text-decoration: none;
 	color: #110A40;
+
 }
 
 a:hover{
@@ -78,7 +80,7 @@ li{
 .achievement{
 	background-color: rgb(250,250,250);
 	border-radius: 5px;
-	box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 	margin: 10px auto;
 	padding-bottom: 5px;
 }
@@ -91,9 +93,6 @@ li{
 
 #footer a{
 	color: #428BCA;
-	font-weight: 600;
-	font-size: 15px;
-	font-family: 'Open Sans', sans-serif;
 }
 
 #footer a:hover{
