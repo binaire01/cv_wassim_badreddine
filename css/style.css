@@ -96,14 +96,13 @@ li{
 }
 
 #footer a:hover{
-	color: #302E2C;
+	color: rgb(100, 100, 100);
 	text-decoration: none;
 }
 
 .container p{
 	padding-left: 10px;
 }
-
 
 .span1{
 	background: #FFC000;
@@ -136,5 +135,6 @@ p{
 }
 
 .panel-footer-height {
-	height: 430px;
+	top: 0px;
+	bottom: 0px;
 }
