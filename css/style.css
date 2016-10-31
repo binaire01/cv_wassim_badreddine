@@ -9,6 +9,7 @@ img{
 	margin-top: 15px;
 }
 
+/** DEBUT STYLES DES BALISES Hn */
 h1{
 	color: #428BCA;
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -17,7 +18,6 @@ h1{
 }
 
 h2{
-	color: #302E2C;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 600;
@@ -40,23 +40,27 @@ h4{
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 16px;
 	font-weight: 600;
-	color: #363636;
 	margin-left: 20px;
 }
 
 h5{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
-	color: #363636;
 	margin-left: 20px;
 }
 
 h6{
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 14px;
-	color: #363636;
 	margin-left: 20px;
 }
+
+h4, h5, h6, p{
+	color:rgb(100, 100, 100);
+}
+
+/** FIN STYLES DES BALISES Hn */
+
 
 a{
 	text-decoration: none;
@@ -105,21 +109,6 @@ li{
 .span1{
 	background: #FFC000;
 	border-radius: 5px;
-}
-
-.span2{
-	background: #FFC000;
-}
-
-.span3{
-	background: #FFC000;
-}
-
-.span4{
-	background: #FFC000;
-}
-
-.allspan{
 	font-weight: 600;
 	font-size: 13px;
 	font-family: 'Open Sans', sans-serif;
@@ -127,7 +116,7 @@ li{
 	padding-bottom: 5px;
 	padding-left: 10px;
 	padding-right: 10px;
-	color: black;
+	color:rgb(100, 100, 100);
 }
 
 .navbar-transparent{
